@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application_gestion", "Application_gestion.csproj", "{3A8D1093-450E-45FE-A6F0-0D91A4236F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "..\DAO\DAO.csproj", "{419A320F-F0DF-4D49-8A62-DA1443E4CF10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "des_objets", "..\objets\des_objets.csproj", "{2C655451-5FC0-4660-99A5-F627B139C336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A8D1093-450E-45FE-A6F0-0D91A4236F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8D1093-450E-45FE-A6F0-0D91A4236F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8D1093-450E-45FE-A6F0-0D91A4236F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8D1093-450E-45FE-A6F0-0D91A4236F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419A320F-F0DF-4D49-8A62-DA1443E4CF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419A320F-F0DF-4D49-8A62-DA1443E4CF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419A320F-F0DF-4D49-8A62-DA1443E4CF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419A320F-F0DF-4D49-8A62-DA1443E4CF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C655451-5FC0-4660-99A5-F627B139C336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C655451-5FC0-4660-99A5-F627B139C336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C655451-5FC0-4660-99A5-F627B139C336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C655451-5FC0-4660-99A5-F627B139C336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CA8A88B-F1A6-44C4-B66B-EC2005DA24E4}
+	EndGlobalSection
+EndGlobal

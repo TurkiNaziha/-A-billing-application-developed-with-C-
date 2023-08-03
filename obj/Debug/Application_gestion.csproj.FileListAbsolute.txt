@@ -1,0 +1,50 @@
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\Application_gestion.exe.config
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\Application_gestion.exe
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\Application_gestion.pdb
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.csprojAssemblyReference.cache
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.login.resources
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.Properties.Resources.resources
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.csproj.GenerateResource.cache
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.exe
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.pdb
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.Article.resources
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.MenuPrincipal.resources
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.F_Client.resources
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\DAO.dll
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\objets.dll
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\DAO.pdb
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\objets.pdb
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.csproj.CopyComplete
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.parametres.resources
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.acces.resources
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.Facturation.resources
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\itextsharp.dll
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\itextsharp.xml
+C:\Users\Msi\Desktop\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.facture.resources
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\Application_gestion.exe.config
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\Application_gestion.exe
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\Application_gestion.pdb
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\BouncyCastle.Crypto.dll
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\DAO.dll
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\itextsharp.dll
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\objets.dll
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\DAO.pdb
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\objets.pdb
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\bin\Debug\itextsharp.xml
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.csprojAssemblyReference.cache
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.acces.resources
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.Article.resources
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.Facturation.resources
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.facture.resources
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.F_Client.resources
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.login.resources
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.MenuPrincipal.resources
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.parametres.resources
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.Properties.Resources.resources
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.csproj.GenerateResource.cache
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.csproj.CoreCompileInputs.cache
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.csproj.CopyComplete
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.exe
+D:\bureau 13_05_2022\2ersemestre\ProjetFedere\Projet_DS\Application_gestion\obj\Debug\Application_gestion.pdb
